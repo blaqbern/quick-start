@@ -1,0 +1,30 @@
+{
+  "name": "quick-start",
+  "version": "0.1.0",
+  "description": "A very simple workflow to help make styling html quick and painless",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blaqbern/quick-start.git"
+  },
+  "author": "Chris Blackburn",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blaqbern/quick-start/issues"
+  },
+  "homepage": "https://github.com/blaqbern/quick-start#readme",
+  "devDependencies": {
+    "del": "^2.2.1",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-cssnano": "^2.1.2",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^2.3.2"
+  },
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

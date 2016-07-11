@@ -1,0 +1,15 @@
+@import "font-declarations.scss";
+
+$primary: #e66;
+
+body {
+  font-family: fira-sans-light;
+  padding: 70px;
+}
+
+.header {
+  font-family: fira-sans-thin;
+  color: $primary;
+  border-bottom: 1px solid $primary;
+  margin-bottom: 15px;
+}
